@@ -1,0 +1,9 @@
+	
+What we plan to do:
+
+    Catching up with each other for an overview of things that we did last week
+    Cheeking the updates we have at the pull request that we worked last week in order to make some other improvements based on the feedback that our mentor and coaches gave to us
+    Continuing with the tutorials for Angular JS
+    Getting ready for the weekly call that we have with our supervisor, mentor and coaches
+    Installing Atom for remote pair programming so we can work together even when we are at home or not at the same place
+

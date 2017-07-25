@@ -1,0 +1,12 @@
+*** Hooray!! Our first pull request has been merged! ***
+TODAY WE:
+
+    Updated our github project
+    Tried to fix this issue https://github.com/nextcloud/contacts/issues/253
+    We worked remotely using atom-pair which is package of Atom text editor we installed yesterday
+
+TO DO:
+
+    Review the Contacts Documentation PR
+    Fix issues 130 and 253
+
