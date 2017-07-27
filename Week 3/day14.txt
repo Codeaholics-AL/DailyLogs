@@ -1,0 +1,8 @@
+What we have done:
+
+    Started working at 9am
+    We had a coffee at Mulliri Vjeter in order to wake up and start the day with AngularJS
+    Working on the issues #244 and #255, we did some tests with two different versions of Nextcloud and we found that those issues were already fixed on the current version that we are working on
+    Still working on the issue #253
+    Created a github organization for our team
+

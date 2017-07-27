@@ -1,0 +1,6 @@
+What we have done:
+
+    We started the week with a coffee and we set some goals
+    We continued working on issue #256, but we haven't fixed it yet
+    We read AngularJS documentation where one of the things we learned was that $q is a service that helps you run functions asynchronously
+

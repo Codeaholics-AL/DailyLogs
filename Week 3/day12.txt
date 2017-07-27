@@ -1,0 +1,11 @@
+What we have done:
+
+    Started working at 9am
+    Reviewed the Contacts Documentation PR
+    Still working on working on issue #253 and we realized that when adding the 3 props tel email and adr to the template after they are created in the controller they do not have a $$hashKey. We tried multiple things, such as adding track by value option to the foreach loop but it didn't worked because it says that contains dupes. Therefore, we are currently stuck and we asked our coaches and other contributors to have a look at the code.
+    watered the flowers at Open Labs Hackerspace and cleaned the place
+
+To Do:
+
+    Have a call with our supervisor (Benedikt)
+

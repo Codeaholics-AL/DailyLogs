@@ -1,0 +1,7 @@
+What we have done:
+
+    Hooray! We finally fixed the issue #256
+    We created a PR
+    Our coaches reviewed it and gave us little remarks, we read about keywords that close the issues https://help.github.com/articles/closing-issues-using-keywords/
+    Xheni wasn't feeling good today, I hope she gets better soon :/
+
